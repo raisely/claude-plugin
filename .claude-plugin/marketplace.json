@@ -1,0 +1,15 @@
+{
+  "name": "raisely",
+  "description": "Raisely plugin marketplace for Claude Code",
+  "owner": {
+    "name": "Raisely",
+    "email": "engineering@raisely.com"
+  },
+  "plugins": [
+    {
+      "name": "raisely",
+      "source": "./",
+      "description": "Connect Claude Code to Raisely. Ships the Raisely MCP server so you can query and manage campaigns, donations, supporters, and more from chat."
+    }
+  ]
+}
