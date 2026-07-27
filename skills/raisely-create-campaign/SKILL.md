@@ -1,6 +1,6 @@
 ---
 name: raisely-create-campaign
-description: Guided end-to-end workflow to create a new Raisely campaign from scratch: gather a brief, create via MCP, pull locally, customize branding/content/components, deploy, and validate. Use when the user says "Create a new campaign", "Build me a fundraising page", "Start a new Giving Tuesday campaign", "Set up a P2P campaign", "I need a new appeal page", or any similar phrase.
+description: 'Guided end-to-end workflow to create a new Raisely campaign from scratch: gather a brief, create via MCP, pull locally, customize branding/content/components, deploy, and validate. Use when the user says "Create a new campaign", "Build me a fundraising page", "Start a new Giving Tuesday campaign", "Set up a P2P campaign", "I need a new appeal page", or any similar phrase.'
 ---
 
 # Start a Campaign from Scratch
