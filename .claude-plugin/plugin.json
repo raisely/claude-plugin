@@ -6,5 +6,5 @@
   "author": {
     "name": "Raisely"
   },
-  "mcpServers": "./mcp.json"
+  "mcpServers": "./.mcp.json"
 }
