@@ -1,7 +1,8 @@
 {
   "mcpServers": {
     "Raisely": {
-      "url": "https://mcp.raisely.com/mcp/all",
+      "type": "http",
+      "url": "https://mcp.raisely.com/mcp",
       "headers": {}
     }
   }
